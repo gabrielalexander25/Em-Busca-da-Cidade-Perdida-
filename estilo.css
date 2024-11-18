@@ -1,0 +1,33 @@
+cuerpo{
+    color de fondo: #1D4221;
+    color:blanco;
+    familia de fuentes: "Bai Jamjuree",sin serifa;
+    mostrar:doblar;
+    justificar-contenido:centro;
+    alinear elementos:centro;
+    altura: 700píxeles;
+    margen: 0;
+}
+
+botón{
+    color de fondo: #64A712;
+    color:blanco;
+    familia de fuentes: "Bai Jamjuree",sin serifa;
+}
+
+.paso{
+    mostrar:ninguno;
+}
+
+.paso.activo{
+    mostrar:bloquear;
+}
+
+principal{
+    alinear texto:centro;
+    ancho máximo: 90%;
+}
+
+imagen{
+    ancho máximo: 90%;
+}
